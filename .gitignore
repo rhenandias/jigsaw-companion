@@ -1,0 +1,6 @@
+.env
+*lock.json
+*.lock
+images
+.vscode
+dist
